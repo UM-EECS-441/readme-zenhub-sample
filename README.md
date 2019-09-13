@@ -1,7 +1,5 @@
 # APP_NAME
 
-API Health: [![Assertible status](https://assertible.com/apis/5c04cdb2-c4c8-4730-a3ef-56b38abe49ab/status?api_token=pGtQpRasMcKcosDu&cache=1540512841944&environment=production)](https://assertible.com/dashboard#/services/5c04cdb2-c4c8-4730-a3ef-56b38abe49ab/results)
-
 This repo will help us store code for the APP_NAME project (EECS 441, Fall 2018). Team members: Noriyuki Kojima (kojimano), Il Jae Lee (iljae), Tejas Prahlad (prtejas), Sesh Sadasivam (seshrs), Victoria Whydell (vwhydell), Daniel Zhang (dtzhang), Harry Zhang (zharry).
 
 APP_NAME is a navigation app with safety in mind: we combine navigation and location data with fast updates on crime and danger reports, allowing users to understand quantitatively the tradeoffs and risks associated with travelling and safety. If you're in a an area you're unfamiliar with or need to know how to get home without any danger, APP_NAME is the perfect app for you!
