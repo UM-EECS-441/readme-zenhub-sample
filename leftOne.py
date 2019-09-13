@@ -5,9 +5,9 @@ import os
 rootDir = '.'
 for dirName, subdirList, fileList in os.walk(rootDir):
     count = 0
-    print(dirName)
+    # print(dirName)
     for fname in fileList:
-        print(fname)
-        if fname != "leftOne.py" and count >= 1:
-            os.remove(dirName + "/" + fname)
-        count += 1
+        print(dirName + "/" + fname)
+        #if fname != "leftOne.py" and count >= 1:
+        #    os.remove(dirName + "/" + fname)
+        #count += 1
